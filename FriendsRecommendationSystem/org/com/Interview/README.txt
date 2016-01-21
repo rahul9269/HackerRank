@@ -1,0 +1,1 @@
+Use the runApp.py to run the code. I have added comments inside that file how to run it.
